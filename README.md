@@ -24,6 +24,8 @@ Laravel proporciona un sistema de validación robusto y fácil de usar para ayud
 
 `Prevenir la Cross-Site Scripting XSS`: tomar en cuenta todas las directrices de XSS.
 
+`Prevenir la Cross-Site Request Forgery CSRF`: tomar en cuenta todas las directrices de CSRF.
+
 `Prevenir la exposición de datos sensibles`: tomar en cuenta todas las directrices de exposición de datos sensibles.
 
 ### Recomendaciones para prevenir los fallos de validación de entrada en Laravel
